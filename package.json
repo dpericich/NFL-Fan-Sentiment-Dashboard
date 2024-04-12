@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dpericich/NFL-Fan-Sentiment-Dashboard/issues"
   },
-  "homepage": "https://github.com/dpericich/NFL-Fan-Sentiment-Dashboard#readme"
+  "homepage": "https://github.com/dpericich/NFL-Fan-Sentiment-Dashboard#readme",
+  "dependencies": {
+    "puppeteer": "^22.6.4"
+  }
 }
