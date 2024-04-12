@@ -1,0 +1,20 @@
+{
+  "name": "nfl-sentiment-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpericich/NFL-Fan-Sentiment-Dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpericich/NFL-Fan-Sentiment-Dashboard/issues"
+  },
+  "homepage": "https://github.com/dpericich/NFL-Fan-Sentiment-Dashboard#readme"
+}
